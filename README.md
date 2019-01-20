@@ -14,4 +14,4 @@ Full = 3: only be achieved when Vector is on the charger."
 NOTE:  You will need to have the Anki Vector SDK installed on your PC in order to run this script.  The SDK can be found at:
 https://developer.anki.com/vector/docs/initial.html
 
-Also note, as of Anki Vector SDK Ver 0.5.1, Python programs should not be run while the smart phone app is connected to Vector.  On rare occasions, the Python code will run (or portions will execute) but it is highly recommended that you close the Vector smart phone app before executing any Python code that connects to Vector.
+Also note, as of Anki Vector SDK Ver 0.5.1, Python programs should not be run while the smart phone app is connected to Vector.  On rare occasions, the Python code will run (or portions will execute) but it is highly recommended that you close the Vector smart phone app before executing any Python code that connects to Vector.  [Vector probably gets confused if two apps are trying to talk to him at the same time - - it kinda makes sense.  Even humans don't like two people talking to them at the same time :-) ]
