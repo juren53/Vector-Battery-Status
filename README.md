@@ -1,4 +1,4 @@
-# Vector-Battery-Status
+# Vector Battery Status
 Python script that reports on Anki Vector's battery status.   Much of this code is in the SDK  - - I reformated output to improve readability and to ultimately create a log file.
 
 Anki provides the following "abreviated" info about Vector's battery status in the SDK:
